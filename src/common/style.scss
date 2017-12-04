@@ -1,0 +1,31 @@
+$theme-color:#2d8cf0;
+$border-color:#e0e0e0;
+.main{
+  .stick-foot {
+    flex: 1;
+  }
+  .page-warpper {
+    margin: 20px;
+    overflow: hidden;
+  }
+}
+.layout-breadcrumb {
+  padding-left: 10px;
+  margin-bottom: 10px;
+  .breadcrumb-icon {
+    color: #495060;
+  }
+}
+
+.ivu-table th {
+  background-color: red;
+  color: #333;
+  font-weight: bold;
+  font-size: 15px;
+
+}
+.table {
+  max-width: 100%;
+  border-color: #E9EAEC;
+}
+

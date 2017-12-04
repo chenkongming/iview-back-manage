@@ -1,0 +1,16 @@
+一、账单中心
+  1、bill-manage：账单报表
+  2、bill-detail：账单详细
+二、经营报表
+  1、business-resume：营业概要
+  2、hot-sell-food：热销菜品
+  3、revenue-report：营收报表
+三、资源管理
+  1、category-manage：品类管理
+  2、food-manage：菜品管理
+  3、table-manage：台位管理
+  4、peripheral-manage：外设管理
+四、通告管理
+  1、notification-manage:通告管理
+五、权限管理
+  1、
